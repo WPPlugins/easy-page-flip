@@ -1,0 +1,11 @@
+/*
+ * Plugin Easy PageFlip
+ * Copyright (c) 2013 - 2015 CHR Designer (http://www.chrdesigner.com/)
+ *
+ * Licensed under the MIT license (http://www.opensource.org/licenses/mit-license.php)
+ *
+ * Version : 1.1.1
+ *
+ */
+ 
+.gallery-icon > a,.gallery-icon > a > img,.gallery-icon > img{max-width:100%!important;padding:0!important;width:100%!important}img.wp-post-image{border-radius:3px 3px 3px 3px;box-shadow:0 1px 4px rgba(0,0,0,0.2)}.ul-list-easy-pageflip{display:block;width:100%;margin:0 auto}.ul-list-easy-pageflip li{display:inline-block;margin:0 25px 15px;width:150px}.ul-list-easy-pageflip li > a,.ul-list-easy-pageflip li > a > img,.ul-list-easy-pageflip li > img{max-width:100%;padding:0;width:100%}.ul-list-easy-pageflip li > h4{display:inline-block;width:100%;text-align:center;margin-bottom:10px}.booklet .gallery-item{padding:0;max-width:100%}.booklet .gallery-item figure img{width:100%;height:auto}

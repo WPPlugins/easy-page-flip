@@ -1,0 +1,167 @@
+# Copyright (C) 2015 Easy Page Flip
+# This file is distributed under the same license as the Easy Page Flip package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Page Flip 1.1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/easy-page-flip\n"
+"POT-Creation-Date: 2015-04-17 15:29:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/tinymce/chrEpf-tinymce-page.php:51
+msgid "Select the order:"
+msgstr ""
+
+#: admin/tinymce/chrEpf-tinymce-page.php:55
+msgid "Descending"
+msgstr ""
+
+#: admin/tinymce/chrEpf-tinymce-page.php:56
+msgid "Ascending"
+msgstr ""
+
+#: admin/tinymce/chrEpf-tinymce-page.php:61
+msgid "Select order by:"
+msgstr ""
+
+#: admin/tinymce/chrEpf-tinymce-page.php:65
+msgid "Date"
+msgstr ""
+
+#: admin/tinymce/chrEpf-tinymce-page.php:66
+msgid "ID"
+msgstr ""
+
+#: admin/tinymce/chrEpf-tinymce-page.php:67
+msgid "Title"
+msgstr ""
+
+#: admin/tinymce/chrEpf-tinymce-page.php:68
+msgid "Random"
+msgstr ""
+
+#: admin/tinymce/chrEpf-tinymce-page.php:73
+msgid "List Magazines per Page:"
+msgstr ""
+
+#: admin/tinymce/chrEpf-tinymce-page.php:89
+msgid "All"
+msgstr ""
+
+#: admin/tinymce/chrEpf-tinymce-page.php:94
+msgid "Image Size:"
+msgstr ""
+
+#: admin/tinymce/chrEpf-tinymce-page.php:110
+msgid "Submit"
+msgstr ""
+
+#: includes/content-pageflip-list.php:61
+msgid "Not found..."
+msgstr ""
+
+#: includes/custom_post_easy_pageflip.php:8
+msgid "Magazines"
+msgstr ""
+
+#: includes/custom_post_easy_pageflip.php:9
+msgid "Magazine"
+msgstr ""
+
+#: includes/custom_post_easy_pageflip.php:10
+msgid "Add New"
+msgstr ""
+
+#: includes/custom_post_easy_pageflip.php:11
+#: includes/custom_post_easy_pageflip.php:13
+msgid "Add New Magazine"
+msgstr ""
+
+#: includes/custom_post_easy_pageflip.php:12
+msgid "Edit Magazine"
+msgstr ""
+
+#: includes/custom_post_easy_pageflip.php:14
+msgid "View Magazine"
+msgstr ""
+
+#: includes/custom_post_easy_pageflip.php:15
+msgid "Search Magazines"
+msgstr ""
+
+#: includes/custom_post_easy_pageflip.php:16
+msgid "Not found"
+msgstr ""
+
+#: includes/custom_post_easy_pageflip.php:17
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/pageflip_meta_box.php:7 includes/pageflip_meta_box.php:22
+msgid "Configure PageFlip"
+msgstr ""
+
+#: includes/pageflip_meta_box.php:25
+msgid "Speed:"
+msgstr ""
+
+#: includes/pageflip_meta_box.php:33
+msgid "Starting Page:"
+msgstr ""
+
+#: includes/pageflip_meta_box.php:37
+msgid "Direction:"
+msgstr ""
+
+#: includes/pageflip_meta_box.php:39
+msgid "Left to Right"
+msgstr ""
+
+#: includes/pageflip_meta_box.php:40
+msgid "Right to Left"
+msgstr ""
+
+#: includes/pageflip_meta_box.php:44
+msgid "Page Numbers:"
+msgstr ""
+
+#: includes/pageflip_meta_box.php:46 includes/pageflip_meta_box.php:54
+msgid "True"
+msgstr ""
+
+#: includes/pageflip_meta_box.php:47 includes/pageflip_meta_box.php:53
+msgid "False"
+msgstr ""
+
+#: includes/pageflip_meta_box.php:51
+msgid "Closed Book:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Page Flip"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.chrdesigner.com/plugin/easy-pageflip.zip"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easy Page Flip is a plugin where you create a Virtual Magazine in few "
+"clicks, this plugin has with base <a href=\"http://builtbywill.com/code/"
+"booklet/\" target=\"_blank\">jQuery Booklet</a> and is compatible with <a "
+"href=\"http://wordpress.org/plugins/wp-pagenavi/\" target=\"_blank\">WP-"
+"PageNavi</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CHR Designer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.chrdesigner.com"
+msgstr ""

@@ -1,0 +1,843 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YouTube Simple Gallery v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-30 10:48-0300\n"
+"PO-Revision-Date: 2016-07-30 11:54-0300\n"
+"Last-Translator: Cesar Ribeiro <chrdesigner@chrdesigner.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/assets/tinymce/chrEpf-tinymce-page.php:60
+msgid "Select the order:"
+msgstr "Selecione a ordem:"
+
+#: admin/assets/tinymce/chrEpf-tinymce-page.php:65
+msgid "Descending"
+msgstr "Decrescente"
+
+#: admin/assets/tinymce/chrEpf-tinymce-page.php:66
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: admin/assets/tinymce/chrEpf-tinymce-page.php:71
+msgid "Select order by:"
+msgstr "Selecione a ordem por\""
+
+#: admin/assets/tinymce/chrEpf-tinymce-page.php:75
+msgid "Date"
+msgstr "Data"
+
+#: admin/assets/tinymce/chrEpf-tinymce-page.php:76
+msgid "ID"
+msgstr "ID"
+
+#: admin/assets/tinymce/chrEpf-tinymce-page.php:77
+#: includes/edit-column-easy-pageflip.php:9
+msgid "Title"
+msgstr "Título"
+
+#: admin/assets/tinymce/chrEpf-tinymce-page.php:78
+msgid "Random"
+msgstr "Randômico"
+
+#: admin/assets/tinymce/chrEpf-tinymce-page.php:83
+msgid "List Magazines per Page:"
+msgstr "Listar quantidade de revistas por página:"
+
+#: admin/assets/tinymce/chrEpf-tinymce-page.php:90
+msgid "All"
+msgstr "Todos"
+
+#: admin/assets/tinymce/chrEpf-tinymce-page.php:95
+msgid "Image Size:"
+msgstr "Tamanho da Imagem:"
+
+#: admin/assets/tinymce/chrEpf-tinymce-page.php:111
+msgid "Submit"
+msgstr "Enviar"
+
+#: includes/content-pageflip-list.php:69
+msgid "Not found..."
+msgstr "Não Encontrado..."
+
+#: includes/custom_post_easy_pageflip.php:7
+#: includes/custom_post_easy_pageflip.php:19
+msgid "Magazines"
+msgstr "Revistas"
+
+#: includes/custom_post_easy_pageflip.php:8
+msgid "Magazine"
+msgstr "Revista"
+
+#: includes/custom_post_easy_pageflip.php:9
+msgid "Add New"
+msgstr "Adicionar Nova"
+
+#: includes/custom_post_easy_pageflip.php:10
+#: includes/custom_post_easy_pageflip.php:12
+msgid "Add New Magazine"
+msgstr "Adicionar Nova Revista"
+
+#: includes/custom_post_easy_pageflip.php:11
+msgid "Edit Magazine"
+msgstr "Editar Revista"
+
+#: includes/custom_post_easy_pageflip.php:13
+msgid "View Magazine"
+msgstr "Visualizar Revista"
+
+#: includes/custom_post_easy_pageflip.php:14
+msgid "Search Magazines"
+msgstr "Procurar Revistas"
+
+#: includes/custom_post_easy_pageflip.php:15
+msgid "Not found"
+msgstr "Não Encontrado"
+
+#: includes/custom_post_easy_pageflip.php:16
+msgid "Not found in Trash"
+msgstr "Nenhum registro encontrado na lixeira"
+
+#: includes/edit-column-easy-pageflip.php:8
+msgid "Featured Image"
+msgstr "Imagem Destacada"
+
+#: includes/edit-column-easy-pageflip.php:10
+msgid "Gallery"
+msgstr "Galeria"
+
+#: includes/pageflip_meta_box.php:7 includes/pageflip_meta_box.php:22
+msgid "Configure PageFlip"
+msgstr "Configure o PageFlip"
+
+#: includes/pageflip_meta_box.php:25
+msgid "Speed:"
+msgstr "Velocidade:"
+
+#: includes/pageflip_meta_box.php:33
+msgid "Starting Page:"
+msgstr "Iniciar da página:"
+
+#: includes/pageflip_meta_box.php:37
+msgid "Direction:"
+msgstr "Direção:"
+
+#: includes/pageflip_meta_box.php:39
+msgid "Left to Right"
+msgstr "Esquerda para Direita"
+
+#: includes/pageflip_meta_box.php:40
+msgid "Right to Left"
+msgstr "Direita para Esquerda"
+
+#: includes/pageflip_meta_box.php:44
+msgid "Page Numbers:"
+msgstr "Números da página:"
+
+#: includes/pageflip_meta_box.php:46 includes/pageflip_meta_box.php:54
+msgid "True"
+msgstr "Verdadeiro"
+
+#: includes/pageflip_meta_box.php:47 includes/pageflip_meta_box.php:53
+msgid "False"
+msgstr "Falso"
+
+#: includes/pageflip_meta_box.php:51
+msgid "Closed Book:"
+msgstr "Revista Fechada:"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Image/Brand"
+#~ msgstr "Imagem/Marca"
+
+#~ msgid "Summary Content"
+#~ msgstr "Resumo do Conteúdo"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Showcases"
+#~ msgstr "Showcases"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
+
+#~ msgid "Next"
+#~ msgstr "Próximo"
+
+#~ msgid "More Info - Showcase"
+#~ msgstr "Mais Informações - Showcase"
+
+#~ msgid "Facebook:"
+#~ msgstr "Facebook:"
+
+#~ msgid "Please, don't forget to add <strong>http://</strong> in your link..."
+#~ msgstr ""
+#~ "Atenção: Não esqueça de adicionar o <strong>http://</strong> em seu "
+#~ "link..."
+
+#~ msgid "Google Plus:"
+#~ msgstr "Google Plus:"
+
+#~ msgid "LinkedIn:"
+#~ msgstr "LinkedIn:"
+
+#~ msgid "Custom Link:"
+#~ msgstr "Link Personalizado:"
+
+#~ msgid "Shortcode for Showcase"
+#~ msgstr "Shortcode do Showcase"
+
+#~ msgid "General Settings"
+#~ msgstr "Configurações Geral"
+
+#~ msgid "Color Default is #333333"
+#~ msgstr "Cor Padrão é #333333"
+
+#~ msgid "Choose title color"
+#~ msgstr "Escolha a cor do título"
+
+#~ msgid "Font Size Title"
+#~ msgstr "Tamanho da Fonte Título"
+
+#~ msgid "Default is 30px"
+#~ msgstr "Padrão é 30px"
+
+#~ msgid "Text Align - Title"
+#~ msgstr "Alinhar Texto - Título"
+
+#~ msgid "Left"
+#~ msgstr "Esquerda"
+
+#~ msgid "Center"
+#~ msgstr "Centro"
+
+#~ msgid "Right"
+#~ msgstr "Direita"
+
+#~ msgid "Default is Left"
+#~ msgstr "Padrão é Esquerda"
+
+#~ msgid "Border Color"
+#~ msgstr "Cor da Borda"
+
+#~ msgid "Choose Border Color<br /><small>Color Default is #F4F4F4</small>"
+#~ msgstr "Escolha a Cor da Borda<br /><small>Cor padrão é #F4F4F4</small>"
+
+#~ msgid "Border Width"
+#~ msgstr "Largura da Borda"
+
+#~ msgid "Default is 6px"
+#~ msgstr "Padrão é 6px"
+
+#~ msgid "Border Radius"
+#~ msgstr "Borda Arredondada"
+
+#~ msgid "Default is 0px"
+#~ msgstr "Padrão é 0px"
+
+#~ msgid "Border Style"
+#~ msgstr "Estilo da Borda"
+
+#~ msgid "Solid"
+#~ msgstr "Solida"
+
+#~ msgid "Dotted"
+#~ msgstr "Pontilhado"
+
+#~ msgid "Dashed"
+#~ msgstr "Tracejada"
+
+#~ msgid "Double"
+#~ msgstr "Dupla"
+
+#~ msgid "None"
+#~ msgstr "Nenhuma"
+
+#~ msgid "Default is Solid"
+#~ msgstr "Padrão é Solido"
+
+#~ msgid "Background Color"
+#~ msgstr "Cor do Fundo"
+
+#~ msgid "Choose Background Color<br /><small>Color Default is #FCFCFC</small>"
+#~ msgstr "Escolha a Cor de Fundo<br /><small>Cor Padrão é #FCFCFC</small>"
+
+#~ msgid "Show Content"
+#~ msgstr "Mostrar Conteúdo"
+
+#~ msgid "Above"
+#~ msgstr "Acima"
+
+#~ msgid "Below"
+#~ msgstr "Abaixo"
+
+#~ msgid "Floats"
+#~ msgstr "Flutuando"
+
+#~ msgid "Carousel options"
+#~ msgstr "Opções do Carrousel"
+
+#~ msgid "Presentation of Content"
+#~ msgstr "Apresentação de conteúdo"
+
+#~ msgid "List per"
+#~ msgstr "Listar por"
+
+#~ msgid "4 per line"
+#~ msgstr "4 por linha"
+
+#~ msgid "6 per line"
+#~ msgstr "6 por linha"
+
+#~ msgid "8 per line"
+#~ msgstr "8 por linha"
+
+#~ msgid "10 per line"
+#~ msgstr "10 por linha"
+
+#~ msgid "How many Showcases per scroll"
+#~ msgstr "Quantas Showcases por scroll"
+
+#~ msgid "stopOnHover"
+#~ msgstr "stopOnHover"
+
+#~ msgid "Deactivated"
+#~ msgstr "Desativado"
+
+#~ msgid "Activated"
+#~ msgstr "Ativado"
+
+#~ msgid "Stop autoplay on mouse hover"
+#~ msgstr "Para o autoplay quando mouse hover"
+
+#~ msgid "autoPlay"
+#~ msgstr "AutoPlay"
+
+#~ msgid "3 Seconds"
+#~ msgstr "3 Segundos"
+
+#~ msgid "6 Seconds"
+#~ msgstr "6 Segundos"
+
+#~ msgid "8 Seconds"
+#~ msgstr "8 Segundos"
+
+#~ msgid "14 Seconds"
+#~ msgstr "14 Segundos"
+
+#~ msgid "28 Seconds"
+#~ msgstr "28 Segundos"
+
+#~ msgid "56 Seconds"
+#~ msgstr "56 Segundos"
+
+#~ msgid "Stoped"
+#~ msgstr "Parado"
+
+#~ msgid "Pagination Speed"
+#~ msgstr "Velocidade de Paginação"
+
+#~ msgid "4 Milliseconds"
+#~ msgstr "4 Milissegundos"
+
+#~ msgid "8 Milliseconds"
+#~ msgstr "8 Milissegundos"
+
+#~ msgid "16 Milliseconds"
+#~ msgstr "6 Milissegundos"
+
+#~ msgid "Navigation"
+#~ msgstr "Navegação"
+
+#~ msgid "Display \"Next\" and \"Previous\" buttons."
+#~ msgstr "Exibir botões  \"Próximo\" e \"Anterior\"."
+
+#~ msgid "Pagination"
+#~ msgstr "Paginação"
+
+#~ msgid "Show pagination"
+#~ msgstr "Exibir Paginação"
+
+#~ msgid "Pagination with Numbers"
+#~ msgstr "Paginação com Números"
+
+#~ msgid "Show numbers inside pagination buttons"
+#~ msgstr "Mostra números dentro dos botões de paginação"
+
+#~ msgid "Image Thumbnail"
+#~ msgstr "Imagem do Thumbnail"
+
+#~ msgid "Square"
+#~ msgstr "Quadrado"
+
+#~ msgid "Circle"
+#~ msgstr "Circulo"
+
+#~ msgid "Image Configuration"
+#~ msgstr "Configuracão da Imagem"
+
+#~ msgid "Select the presentation thumbnail format"
+#~ msgstr "Selecione o formatado de apresentação do thumbnail"
+
+#~ msgid "Add your custom <strong>image_size()</strong> if you want."
+#~ msgstr ""
+#~ "Adicione a sua <strong>image_size()</strong> personalizada se desejar."
+
+#~ msgid "Add Custom Class"
+#~ msgstr "Adicione Classe Personalizada"
+
+#~ msgid "Add your custom <strong>Class</strong> if you want."
+#~ msgstr "Adicione a sua <strong>Classe</strong> personalizada se desejar."
+
+#~ msgid "CHR Designer - Shortcodes"
+#~ msgstr "CHR Designer - Shortcodes"
+
+#~ msgid "Showcase"
+#~ msgstr "Showcase"
+
+#~ msgid "Parent Showcase:"
+#~ msgstr "Showcase Parente:"
+
+#~ msgid "All Showcases"
+#~ msgstr "Todos Showcases"
+
+#~ msgid "View Showcase"
+#~ msgstr "Visualizar Showcase"
+
+#~ msgid "Edit Showcase"
+#~ msgstr "Editar Showcase"
+
+#~ msgid "Update Showcase"
+#~ msgstr "Atualizar Showcase"
+
+#~ msgid "Search Showcase"
+#~ msgstr "Procurar Showcase"
+
+#~ msgid "Links:"
+#~ msgstr "Links:"
+
+#~ msgid "Text/Color Configuration"
+#~ msgstr "Configuração Texto/Cor"
+
+#~ msgctxt "sc-carousel-vc-addon"
+#~ msgid "Testimonials"
+#~ msgstr "Depoimentos"
+
+#~ msgctxt "sc-carousel-vc-addon"
+#~ msgid "Testimonial"
+#~ msgstr "Depoimento"
+
+#~ msgid "Parent Testimonial:"
+#~ msgstr "Depoimento Parent:"
+
+#~ msgid "All Testimonials"
+#~ msgstr "Todos Depoimentos"
+
+#~ msgid "View Testimonial"
+#~ msgstr "Visualizar Depoimento"
+
+#~ msgid "Add New Testimonial"
+#~ msgstr "Adicionar Depoimento"
+
+#~ msgid "Edit Testimonial"
+#~ msgstr "Editar Depoimento"
+
+#~ msgid "Update Testimonial"
+#~ msgstr "Atualizar Depoimento"
+
+#~ msgid "Search Testimonial"
+#~ msgstr "Procurar Depoimento"
+
+#~ msgid "Testimonials"
+#~ msgstr "Depoimentos"
+
+#~ msgid "Testimonial"
+#~ msgstr "Depoimento"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Testimonials"
+#~ msgstr "Depoimentos"
+
+#, fuzzy
+#~ msgid "Allt Testimonials"
+#~ msgstr "Depoimentos"
+
+#~ msgid "Sliders"
+#~ msgstr "Sliders"
+
+#~ msgid "Slider"
+#~ msgstr "Slider"
+
+#~ msgid "Edit Slider"
+#~ msgstr "Editar Slider"
+
+#~ msgid "New Slider"
+#~ msgstr "Novo Slider"
+
+#~ msgid "View Slider"
+#~ msgstr "Visualizar Slider"
+
+#~ msgid "Caption 1:"
+#~ msgstr "Subtítulo 1:"
+
+#~ msgid "Align left"
+#~ msgstr "Alinhar a Esquerda"
+
+#~ msgid "Align right"
+#~ msgstr "Alinhar a Direita"
+
+#~ msgid "Font Color"
+#~ msgstr "Cor da Fonte"
+
+#~ msgid "Caption 2:"
+#~ msgstr "Subtítulo 2:"
+
+#~ msgid "Caption 3:"
+#~ msgstr "Subtítulo 3:"
+
+#~ msgid "Caption Button:"
+#~ msgstr "Subtítulo do Botão:"
+
+#~ msgid "Select the destiny - Post/Page"
+#~ msgstr "Selecione o destino - Post/Página"
+
+#~ msgid "- Select -"
+#~ msgstr "- Selecionar -"
+
+#~ msgid "or personality the link:"
+#~ msgstr "ou personalize o seu link:"
+
+#~ msgid "Open in:"
+#~ msgstr "Abir:"
+
+#~ msgid "New Page"
+#~ msgstr "Em uma nova página"
+
+#~ msgid "Font Color Button"
+#~ msgstr "Cor da fonte do botão"
+
+#~ msgid "Customize Gradient Button - Top"
+#~ msgstr "Personalizar o Degrade do Botão - Top"
+
+#~ msgid "Customize Gradient Button - Bottom"
+#~ msgstr "Personalizar o Degrade do Botão - Bottom"
+
+#~ msgid "Slider Image:"
+#~ msgstr "Image do Slider"
+
+#~ msgid "Set slider image"
+#~ msgstr "Adicione a imagem do Slider"
+
+#~ msgid "Remove slider image"
+#~ msgstr "Remova a imagem do Slider"
+
+#~ msgid "Slider Image"
+#~ msgstr "Image do Slider"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "Yes"
+#~ msgstr "Sim"
+
+#~ msgid "No"
+#~ msgstr "Não"
+
+#~ msgid "Hidden"
+#~ msgstr "Ocultar"
+
+#~ msgid "Responsive jQuery Slider - Settings"
+#~ msgstr "Responsive jQuery Slider - Configurações"
+
+#~ msgid "Options saved"
+#~ msgstr "Salvar Configurações"
+
+#~ msgid "Default Settings Responsive jQuery Slider"
+#~ msgstr "Configurações Padrões -  Responsive jQuery Slider"
+
+#~ msgid "Auto Height*"
+#~ msgstr "Auto Height*"
+
+#~ msgid "*With you select the option Yes, the slider will be Full Screen"
+#~ msgstr "* Se você selezionar a opão Sim, o slider será Full Screen"
+
+#~ msgid "Display Sliders"
+#~ msgstr "Mostrar Sliders"
+
+#~ msgid "Pause on hover"
+#~ msgstr "Parar quando selecionado"
+
+#~ msgid "Show Arrows"
+#~ msgstr "Mostrar Setas"
+
+#~ msgid "Timeout"
+#~ msgstr "Tempo da Apresentação"
+
+#~ msgid "*If you type 0 your slider will be stopped"
+#~ msgstr "* Se você digitar 0 o seu slider ficará parado"
+
+#~ msgid "Effects Transition for Image/Text/Button"
+#~ msgstr "Efeitos de transição da Imagem/Texto/Botão"
+
+#~ msgid "Caption 1"
+#~ msgstr "Subtítulo 1"
+
+#~ msgid "Caption 2"
+#~ msgstr "Subtítulo 2"
+
+#~ msgid "Caption 3"
+#~ msgstr "Subtítulo 3"
+
+#~ msgid "Button"
+#~ msgstr "Botão"
+
+#~ msgid "Style for Pagination, Effect and Shadow"
+#~ msgstr "Estilo da Paginação, Efeito e Sombra"
+
+#~ msgid "Show effect on image"
+#~ msgstr "Mostrar efeito sobre a imagem"
+
+#~ msgid "Display Shadow"
+#~ msgstr "Mostrar Sombra"
+
+#~ msgid "Social Media"
+#~ msgstr "Mídias Sociais"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Icon - Twitter"
+#~ msgstr "Icone - Twitter"
+
+#~ msgid "Upload Image"
+#~ msgstr "Adicionar Imagem"
+
+#~ msgid "Enter a URL or upload an image"
+#~ msgstr "Adicione uma URL ou suba uma imagem"
+
+#~ msgid "Add an icon to the maximum size 48x48 px."
+#~ msgstr "Adicione um ícone com o tamanho máximo 48x48 px."
+
+#~ msgid "Icon - Facebook"
+#~ msgstr "Icone - Facebook"
+
+#~ msgid "Icon - LinkedIn"
+#~ msgstr "Icone - LinkedIn"
+
+#~ msgid "Icon - Google Plus"
+#~ msgstr "Icone - Google Plus"
+
+#~ msgid "Responsive jQuery Slider - Function/Shortcode"
+#~ msgstr "Responsive jQuery Slider - Função/Shortcode"
+
+#~ msgid "Function"
+#~ msgstr "Função"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "Created by"
+#~ msgstr "Desenvolvido por"
+
+#~ msgid "+ Set slider image"
+#~ msgstr "Adicione a imagem do Slider"
+
+#~ msgid "- Remove slider image"
+#~ msgstr "Remova a imagem do Slider"
+
+#~ msgid "N&atilde;o existe nenhum v&iacute;deo cadastrado..."
+#~ msgstr "No video registred…"
+
+#~ msgid "V&iacute;deos"
+#~ msgstr "Videos"
+
+#~ msgid "V&iacute;deo"
+#~ msgstr "Video"
+
+#~ msgid "Adicionar Novo"
+#~ msgstr "Add New"
+
+#~ msgid "Adicionar Novo V&iacute;deo"
+#~ msgstr "Add New Video"
+
+#~ msgid "Editar Item"
+#~ msgstr "Editar Item"
+
+#~ msgid "Novo V&iacute;deo"
+#~ msgstr "New Video"
+
+#~ msgid "Visualizar V&iacute;deo"
+#~ msgstr "View Video"
+
+#~ msgid "Procurar V&iacute;deo"
+#~ msgstr "Search Video"
+
+#~ msgid "Nenhum registro encontrado"
+#~ msgstr "No records found"
+
+#~ msgid "Nenhum registro encontrado na lixeira"
+#~ msgstr "No records found in trash"
+
+#~ msgid "Detalhes do V&iacute;deo"
+#~ msgstr "Video Details"
+
+#~ msgid "URL do v&iacute;deo:"
+#~ msgstr "Add URL Video:"
+
+#~ msgid "Exemplos de modelos poss&iacute;veis:"
+#~ msgstr "Examples:"
+
+#~ msgid "Descri&ccedil;&atilde;o:"
+#~ msgstr "Description:"
+
+#~ msgid "Insir&aacute; um texto se desejar:"
+#~ msgstr "Insert a subtext:"
+
+#~ msgid "YouTube Simple Gallery Widget"
+#~ msgstr "YouTube Simple Gallery Widget"
+
+#~ msgid "Um simples Widget para gerar a sua galeria de v&iacute;deos"
+#~ msgstr "A simple widget to generate your video gallery"
+
+#~ msgid "Veja Mais"
+#~ msgstr "Read More"
+
+#~ msgid "Listagem dos V&iacute;deos"
+#~ msgstr "List of Videos"
+
+#~ msgid "galeria-de-video"
+#~ msgstr "video-gallery"
+
+#~ msgid "T&iacute;tulo: "
+#~ msgstr "Title: "
+
+#~ msgid "Quantidade de V&iacute;deos:"
+#~ msgstr "Number of Videos:"
+
+#~ msgid "Insir&aacute; o SLUG da sua Galeria de V&iacute;deo:"
+#~ msgstr "Enter the SLUD Video Gallery:"
+
+#~ msgid "Galeria de V&#237;deo"
+#~ msgstr "Video Gallery"
+
+#~ msgid " YouTube Simple Gallery - Configura&ccedil;&otilde;es"
+#~ msgstr " YouTube Simple Gallery - Settings"
+
+#~ msgid "Op&ccedil;&otilde;es Salvas"
+#~ msgstr "Options Saved"
+
+#~ msgid "Configura&ccedil;&otilde;es padr&otilde;es do YouTube Simple Gallery"
+#~ msgstr "Default settings YouTube Simple Gallery"
+
+#~ msgid "Tamanho do V&iacute;deo"
+#~ msgstr "Video Size"
+
+#~ msgid "Tamanho do Thumbnail Maior"
+#~ msgstr "Thumbnail Size Bigger"
+
+#~ msgid "Tamanho do Thumbnail Menor"
+#~ msgstr "Thumbnail Size Smallest"
+
+#~ msgid "Salvar Op&ccedil;&otilde;es"
+#~ msgstr "Save Options"
+
+#~ msgid "Decrescente"
+#~ msgstr "Descending"
+
+#~ msgid "Selecione ordenar por:"
+#~ msgstr "Select order by:"
+
+#~ msgid "Data"
+#~ msgstr "Date"
+
+#~ msgid "Rand&ocirc;mico"
+#~ msgstr "Random"
+
+#~ msgid "Listagem de V&iacute;deos por p&aacute;gina:"
+#~ msgstr "List videos per page:"
+
+#~ msgid "Todos"
+#~ msgstr "All"
+
+#~ msgid "Enviar"
+#~ msgstr "Submit"
+
+#~ msgid "Exibir V&iacute;deos:"
+#~ msgstr "Show Videos:"
+
+#~ msgid ""
+#~ "<em>Inserir o valor <strong>1</strong> para que o autoplay seja "
+#~ "verdadeiro sen&atilde;o utilize <strong>0</strong> para que seja falso</"
+#~ "em>"
+#~ msgstr ""
+#~ "<em> Enter value <strong> 1 </ strong> for the autoplay to be true but "
+#~ "use <strong> 0 </ strong> to be false </ em>"
+
+#~ msgid "http://wordpress.org/plugins/youtube-simple-gallery/"
+#~ msgstr "http://wordpress.org/plugins/youtube-simple-gallery/"
+
+#~ msgid ""
+#~ "O YouTube Simple Gallery como o pr&oacute;prio nome j&aacute; diz "
+#~ "&eacute; um plugin que voc&ecirc; criar uma &aacute;rea de v&iacute;deos "
+#~ "r&aacute;pidamente para o YouTube com gerenciamento via shortcode."
+#~ msgstr ""
+#~ "YouTube Simple Gallery is a plugin you can create an area for YouTube "
+#~ "videos quickly with management by shortcode."
+
+#~ msgctxt "youtube-simple-gallery"
+#~ msgid "Video"
+#~ msgstr "Vídeo"
+
+#~ msgctxt "youtube-simple-gallery"
+#~ msgid "No records found"
+#~ msgstr "Nenhum registro encontrado"
+
+#~ msgctxt "youtube-simple-gallery"
+#~ msgid "Video Details"
+#~ msgstr "Detalhes do Vídeo"
+
+#~ msgctxt "youtube-simple-gallery"
+#~ msgid "Video URL:"
+#~ msgstr "URL do Vídeo:"
+
+#~ msgctxt "youtube-simple-gallery"
+#~ msgid "Possible examples:"
+#~ msgstr "Exemplos de modelos possíveis:"
+
+#~ msgctxt "youtube-simple-gallery"
+#~ msgid "Description:"
+#~ msgstr "Descrição:"
+
+#~ msgctxt "youtube-simple-gallery"
+#~ msgid "Insert a text."
+#~ msgstr "Insirá um texto se desejar."
+
+#~ msgid "Video Gallery"
+#~ msgstr "Galeria de Vídeo"
+
+#~ msgid "Video Details"
+#~ msgstr "Detalhes do Vídeo"
+
+#~ msgid "Video URL:"
+#~ msgstr "URL do Vídeo:"
+
+#~ msgid "Possible examples:"
+#~ msgstr "Exemplos de modelos possíveis:"
+
+#~ msgid "Insert a text."
+#~ msgstr "Insirá um texto se desejar."

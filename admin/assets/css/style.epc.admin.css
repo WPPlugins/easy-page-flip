@@ -1,0 +1,19 @@
+.gallery-pageflip{
+	padding: 0 0;
+	display: table;
+}
+
+.gallery-pageflip dd{
+	display: inline-flex;
+    margin: 0.5em;
+    width: 20%;
+}
+
+.gallery-pageflip dd figure{
+	margin: 0 0;
+}
+
+.gallery-pageflip dd figure img{
+	width: 100%;
+	height: auto;
+}

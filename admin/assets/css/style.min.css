@@ -1,0 +1,11 @@
+/*
+ * Plugin Easy PageFlip
+ * Copyright (c) 2013 - 2015 CHR Designer (http://www.chrdesigner.com/)
+ *
+ * Licensed under the MIT license (http://www.opensource.org/licenses/mit-license.php)
+ *
+ * Version : 1.1.1
+ *
+ */
+ 
+.epf-admin{display:block;width:100%;margin-bottom:0}.epf-admin dd{display:inline-block;width:100%;margin-left:0}.epf-admin dd .label-epf{width:15%;float:left;font-weight:700;margin-top:5px;padding:0 0 10px}.epf-admin dd .input-epf{width:80%;float:left;margin-right:5px}.epf-admin dd .input-epf > *{display:block;width:100%}#pageflip_meta_box .handlediv,#pageflip_meta_box .hndle,#pageflip_meta_box #normal-sortables{display:none}#pageflip_meta_box.postbox{background:none repeat scroll 0 0 transparent;border:0 none;box-shadow:none}.epf-admin dt h3{margin-bottom:20px!important;padding:0!important}
